@@ -336,6 +336,7 @@ Written something cool in Phaser? Please tell us about it in the [forum][forum],
 ### Bug Fixes
 
 * Fixed a TypeError when a [Text](https://photonstorm.github.io/phaser-ce/Phaser.Text.html) object is created without a `style` argument (#415).
+* Fixed sequentional setup of optional `points` argument at [Rope](https://photonstorm.github.io/phaser-ce/Phaser.Rope.html) class (#416).
 
 ### Thanks
 
